@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-aop-3.2.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-aspects-3.2.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-beans-3.2.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-build-src-3.2.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-context-3.2.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-context-support-3.2.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-core-3.2.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-expression-3.2.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-instrument-3.2.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-instrument-tomcat-3.2.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-jdbc-3.2.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-jms-3.2.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-orm-3.2.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-oxm-3.2.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-struts-3.2.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-test-3.2.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-tx-3.2.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-web-3.2.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-webmvc-3.2.8.RELEASE.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-webmvc-portlet-3.2.8.RELEASE.jar!/" />
+        </CLASSES>
+        <JAVADOC>
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-aop-3.2.8.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-aspects-3.2.8.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-beans-3.2.8.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-context-3.2.8.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-context-support-3.2.8.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-core-3.2.8.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-expression-3.2.8.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-instrument-3.2.8.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-instrument-tomcat-3.2.8.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-jdbc-3.2.8.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-jms-3.2.8.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-orm-3.2.8.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-oxm-3.2.8.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-struts-3.2.8.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-test-3.2.8.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-tx-3.2.8.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-web-3.2.8.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-webmvc-3.2.8.RELEASE-javadoc.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-webmvc-portlet-3.2.8.RELEASE-javadoc.jar!/" />
+        </JAVADOC>
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-aop-3.2.8.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-aspects-3.2.8.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-beans-3.2.8.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-context-3.2.8.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-context-support-3.2.8.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-core-3.2.8.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-expression-3.2.8.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-instrument-3.2.8.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-instrument-tomcat-3.2.8.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-jdbc-3.2.8.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-jms-3.2.8.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-orm-3.2.8.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-oxm-3.2.8.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-struts-3.2.8.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-test-3.2.8.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-tx-3.2.8.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-web-3.2.8.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-webmvc-3.2.8.RELEASE-sources.jar!/" />
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/spring-framework-3.2.8.RELEASE-dist/spring-framework-3.2.8.RELEASE/libs/spring-webmvc-portlet-3.2.8.RELEASE-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/lesson01/commons-beanutils-1.8.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/lesson01/commons-collections-3.2.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/lesson01/commons-lang-2.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/lesson01/commons-logging-1.1.1.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/lesson01/ezmorph-1.0.4.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../../lesson14/source/lesson01/json-lib-2.4-jdk15.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/../mysql-connector-java-5.0.8-bin.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
